@@ -29,14 +29,17 @@ class user
 	char firstname;
 	char lastname;
 public:
-		void Create();
-		void Delete();
-		void Edit();
-		void Login();
-		void Logoff();
+		void Create_User();
+		void Delete_User();
+		void Edit_User();
+		void Login_User();
+		void Logoff_User();
 }
-
-
+class entry {
+	char description;
+	char type;
+	int amount;
+}
 
 //// Functions ////
 /// Bulk Account Actions ///
@@ -117,28 +120,28 @@ int accountMenu()
 /// User Actions ///
 
 // Create user account
-private void User::Create()
+private void User::Create_User()
 {
 
 }
 // Delete user account
-private void User::Delete()
+private void User::Delete_User()
 {
 
 }
 // Edit user account
-private void User::Edit()
+private void User::Edit_User()
 {
 
 }
-// Attempt Login to account
-int User::Login()
+// Attempt Login to user account
+int User::Login_User()
 {
 
 }
 
 // Logoff user account
-int User::Logoff()
+int User::Logoff_User()
 {
 
 }
@@ -177,4 +180,5 @@ int main()
 
 
 	}
+	return 0;
 }
