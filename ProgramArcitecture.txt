@@ -1,0 +1,60 @@
+---- Program Logic ---
+Login Page
+	Username / password
+		Matches User account csv entry
+			Bulk account option
+				Display information
+					Loop through each account under the users account class, and display information
+			Single Account Options
+				Create 
+					Collect account information
+						Append to Bankaccounts csv file
+				Delete
+					Specify Account 
+						Removes entry from Bankaccounts csv file
+				Edit
+					Specify Account
+						Replace entry from Bankaccounts csv file
+				Display
+					Specify Account
+						Show Entry from Bankaccounts csv file
+				Deposit
+					Specify Account
+						Specify amount to deposit
+							Add amount to existing accountBalance in entry
+									Replace accountBalance in entry from Bankaccounts csv file
+									Record old / added / new record to transactionlog for this account						
+				Withdrawl
+					Specify Account
+						Specify amount to withdraw
+							Remove amount to existing accountBalance in entry
+									Replace accountBalance in entry from Bankaccounts csv file
+										Record old / removed / new record to transactionlog for this account		
+				DisplayTransactionLog
+					Specify Account
+						Display all entries in transcation log associated with this account	
+				Go Back
+					Go back to previous selection page
+			Edit User
+				Displays user information
+					Collects edited user information
+						replaces user info in userAccounts csv file	
+			Delete User
+				Confirmation (Y/N)
+					Removes entry from useraccounts csv file
+			Logoff
+				Go back to previous selection page
+		
+		Doesnt match user information
+			Try again prompt
+	
+	Create User Page
+		Collect user information 
+			Append to userAccounts csv file
+	
+---- Program Files  ---
+main.cpp
+userAccounts.csv
+bankAccounts.csv
+transactionLog.csv
+
