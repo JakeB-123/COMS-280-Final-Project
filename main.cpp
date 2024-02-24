@@ -149,6 +149,7 @@ int User::Logoff_User()
 //// Main ////
 int main() 
 {
+	std::cout << "Enter Login Name or 0 for account creation";
 	// Login Page
 	if (loginMenu() == 1) 
 	{

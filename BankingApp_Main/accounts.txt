@@ -1,0 +1,4 @@
+12319, checking, JakeCheck, 0, 50, Maximum Checking
+12430, savings, JakeSav, 5, 5, UtraSavers
+13347, savings, Jakesav2, 5, 5, UtraSavers
+13501, checking, Jakecheck3, 0, 50, Maximum Checking
