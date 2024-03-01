@@ -1,2 +1,2 @@
-﻿BankingApp_Main.obj : error LNK2019: unresolved external symbol "class checkingAccount & __cdecl operator+(class checkingAccount const &,int)" (??H@YAAEAVcheckingAccount@@AEBV0@H@Z) referenced in function "public: void __cdecl account::deposit_account(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?deposit_account@account@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
-C:\Users\RagingOrphan\Documents\GitHub\COMS-280-Final-Project\BankingApp_Main\x64\Debug\BankingApp_Main.exe : fatal error LNK1120: 1 unresolved externals
+﻿  BankingApp_Main.cpp
+  BankingApp_Main.vcxproj -> C:\Users\RagingOrphan\Documents\GitHub\COMS-280-Final-Project\BankingApp_Main\x64\Debug\BankingApp_Main.exe
