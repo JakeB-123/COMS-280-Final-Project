@@ -1,7 +1,10 @@
-10008895,checking,JakeCheckingHuge,0,50,Maximum Checking
-10009515,checking,JakeCheck2,0,50,Maximum Checking
-10010456,savings,JakeSav,5,5,UtraSavers
-10013198,checking,JakeCheck3,0,50,Maximum Checking
-10013335,checking,JakeCheck5,50715,50,Maximum Checking
-10017393,savings,Jakeds,1405,5,UtraSavers
+10008895,checking,JakeCheckingHuge,0.000000,50.000000,Maximum Checking
+10009515,checking,JakeCheck2,0.000000,50.000000,Maximum Checking
+10010456,savings,JakeSav,60.501556,5.000000,UtraSavers
+10013198,checking,JakeCheck3,17912.412109,50.000000,Maximum Checking
+10013335,checking,JakeCheck5,16288828.000000,50.000000,Maximum Checking
+10017393,savings,Jakeds,17061.439453,5.000000,UtraSavers
+10008388,checking,JakeB,0.000000,50.000000,Maximum Checking
+10008555,savings,jakeb,-1149.529663,5.000000,UtraSavers
+10008601,checking,Jaketest45345,-3272861.000000,50.000000,Maximum Checking
 

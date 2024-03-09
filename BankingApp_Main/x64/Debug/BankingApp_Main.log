@@ -1,2 +1,5 @@
 ﻿  BankingApp_Main.cpp
+C:\Users\RagingOrphan\Documents\GitHub\COMS-280-Final-Project\BankingApp_Main\BankingApp_Main.cpp(186,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\RagingOrphan\Documents\GitHub\COMS-280-Final-Project\BankingApp_Main\BankingApp_Main.cpp(187,50): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\RagingOrphan\Documents\GitHub\COMS-280-Final-Project\BankingApp_Main\BankingApp_Main.cpp(188,50): warning C4305: 'initializing': truncation from 'double' to 'float'
   BankingApp_Main.vcxproj -> C:\Users\RagingOrphan\Documents\GitHub\COMS-280-Final-Project\BankingApp_Main\x64\Debug\BankingApp_Main.exe
